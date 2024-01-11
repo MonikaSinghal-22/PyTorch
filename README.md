@@ -1,3 +1,3 @@
-# PyTorch
-PyTorch WineQuality Neural Net Model \n
-XGBoost
+# PyTorch - Machine Learning Course PNW
+* PyTorch WineQuality Neural Net Model 
+* XGBoost
